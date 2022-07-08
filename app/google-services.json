@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478045227393",
+    "firebase_url": "https://adaptorcheckeriot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adaptorcheckeriot",
+    "storage_bucket": "adaptorcheckeriot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478045227393:android:d5cfec964992f64ec74080",
+        "android_client_info": {
+          "package_name": "id.my.dess.cekadaptor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478045227393-qearclgr9rfbii2loup4si8n9t1e5444.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnPNH35gPGkmde2StL3eXYg7YBg7TR8XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478045227393-qearclgr9rfbii2loup4si8n9t1e5444.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
