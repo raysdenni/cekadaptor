@@ -17,18 +17,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <to.freebots.temperaturegauge.TemperatureGauge
-            android:id="@+id/gauge"
-            android:layout_width="match_parent"
-            android:layout_height="300dp"
-            android:layout_margin="50dp"
-            app:layout_constraintBottom_toTopOf="@+id/sb_temperature"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.0" />
-
         <TextView
             android:id="@+id/quality"
             android:layout_width="wrap_content"
