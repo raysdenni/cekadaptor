@@ -9,4 +9,19 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="status_hardware">DB Status</string>
+    <string name="not_connected">TIDAK TERHUBUNG!</string>
+    <string name="voltasedummy">19.76</string>
+    <string name="currentdummy">2.21</string>
+    <string name="powerdummy">36.6</string>
+    <string name="volt_sysmbol">V</string>
+    <string name="current_sysmbol">A</string>
+    <string name="power_sysmbol">W</string>
+    <string name="tegangan">TEGANGAN</string>
+    <string name="arus">ARUS</string>
+    <string name="daya">DAYA</string>
+    <string name="keterangan">Keterangan :</string>
+    <string name="ov">Over Voltage / Kelebihan tegangan</string>
+    <string name="uv">Under Voltage / Kekurangan tegangan</string>
+    <string name="normal">Normal</string>
 </resources>
