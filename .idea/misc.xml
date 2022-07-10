@@ -3,17 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3355" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/bgrectdua.xml" value="0.3355" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/bgrectempat.xml" value="0.3355" />
+        <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/bgrectenam.xml" value="0.3355" />
+        <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/bgrectlima.xml" value="0.3355" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/bgrectsatu.xml" value="0.3355" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/bgrecttiga.xml" value="0.3355" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/buttonbg.xml" value="0.3355" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/buttoneditpressed.xml" value="0.3355" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/buttonnonpressed.xml" value="0.3355" />
+        <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/ic_launcher.xml" value="0.33" />
+        <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3355" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/layout/activity_main.xml" value="0.2672082086361693" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/layout/content_main.xml" value="0.371875" />
+        <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/layout/edit_dialog.xml" value="0.3052586575459598" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/layout/fragment_first.xml" value="0.371875" />
         <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/layout/fragment_second.xml" value="0.371875" />
+        <entry key="..\:/DATA KAMPUS/SKRIPSI/SKRIPSI DENNI PART/KOMPREHENSIF/APK/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3355" />
       </map>
     </option>
   </component>
